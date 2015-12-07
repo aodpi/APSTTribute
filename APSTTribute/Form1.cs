@@ -61,7 +61,7 @@ namespace APSTTribute
             MessageBox.Show(bs.AparitionsInPart("the", ps.Parts[1]).ToString());
         }
         
-        class prob
+        public class prob
         {
             int part;
             double probability;
