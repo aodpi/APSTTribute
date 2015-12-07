@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APSTTribute", "APSTTribute\APSTTribute.csproj", "{AA593EB2-1BB8-40B0-9569-120EAA55BDFA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessing", "WordProcessing\WordProcessing.csproj", "{0AA61A95-1C4E-4252-AFD6-3C6C91F3F592}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulas", "Formulas\Formulas.csproj", "{BD25745D-F5C6-488F-9E05-7493587734FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APSTTributeC", "APSTTributeC\APSTTributeC.csproj", "{74CE0299-4A3C-4F06-AEB4-A415C8F5976C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BD25745D-F5C6-488F-9E05-7493587734FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD25745D-F5C6-488F-9E05-7493587734FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD25745D-F5C6-488F-9E05-7493587734FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CE0299-4A3C-4F06-AEB4-A415C8F5976C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CE0299-4A3C-4F06-AEB4-A415C8F5976C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CE0299-4A3C-4F06-AEB4-A415C8F5976C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CE0299-4A3C-4F06-AEB4-A415C8F5976C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
