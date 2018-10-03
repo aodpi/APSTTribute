@@ -13,6 +13,7 @@ namespace Formulas
         public Bayes(Dictionary<int, List<string>> parts)
         {
             CalculateProbabilitiesForParts(parts);
+            CalculateProbabilitiesForParts(parts);
         }
 
         #region Fields
